@@ -1,0 +1,13 @@
+{
+  "name": "code95-backend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "mongoose": "^5.12.4",
+    "nodemon": "^2.0.7"
+  }
+}
